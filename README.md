@@ -17,7 +17,7 @@ Available Courses<br>
 <br>
 
 Project Structure - <br>
-<br>
+AWS Mse- <br>
 ├── index.html<br>
 ├── courses.html<br>
 ├── course.html<br>
@@ -30,6 +30,7 @@ Project Structure - <br>
 ├── course.js<br>
 ├── quiz.js<br>
 └── results.js<br>
+Output Screenshots
 
 <br>
 Student Details-<br>
